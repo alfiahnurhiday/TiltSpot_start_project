@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Mar 15 13:30:58 ICT 2021
+0.baseType=DIRECTORY
+0.base=D\:\\SEMESTER 4\\00 TRPL\\02 PAPAB 2 New\\Pertemuan 5\\TiltSpot_start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
